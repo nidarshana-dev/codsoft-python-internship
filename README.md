@@ -22,7 +22,26 @@ python todo_list.py
 
 **Author:** Nidarshana T  
 **GitHub:** [@nidarshana-dev](https://github.com/nidarshana-dev)
-### ✅ Task 2: Password Generator
+
+---
+
+## 📋 Task 2: Calculator
+
+**Description:**  
+A simple calculator with basic arithmetic operations like addition, subtraction, multiplication, and division. Supports decimal numbers with error handling for division by zero.
+
+**Concepts Used:**
+- Functions
+- User Input / Output
+- Conditional Statements (if-elif-else)
+- Exception Handling for division by zero
+- While Loops for continuous calculation
+- f-String Formatting
+
+**How to Run:**
+```bash
+python calculator.py
+## ✅ Task 3: Password Generator
 
 **Description:** A Python program that generates a strong random password based on user-specified length. Uses letters, numbers, and symbols.
 
@@ -46,7 +65,7 @@ Keep it safe! Don't share with anyone.
 ```
 
 ---
-## ✅ Task 3: Rock Paper Scissors Game
+## ✅ Task 4: Rock Paper Scissors Game
 
 **Description:** An interactive Python game where users play Rock Paper Scissors against the computer. The game tracks scores, handles invalid inputs, and allows multiple rounds.
 
@@ -81,3 +100,14 @@ Thanks for playing!
 ```
 
 ---
+
+## 🛠️ Technologies Used
+- **Language:** Python 3.x
+- **Libraries:** random, string
+
+## 👨‍💻 Author
+**Nidarshana T**  
+CodSoft Python Programming Internship - May 2026
+
+---
+**Status: 4/5 Tasks Completed ✅**
