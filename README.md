@@ -1,6 +1,6 @@
 # CodSoft Python Programming Internship
 
-This repository contains all the tasks completed for the **CodSoft Python Programming Internship - September 2026 Batch**.
+This repository contains all the tasks completed for the **CodSoft Python Programming Internship - May 2026 Batch**.
 
 ## 📋 Task 1: To-Do List Application
 
