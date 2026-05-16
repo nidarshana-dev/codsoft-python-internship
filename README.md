@@ -30,3 +30,27 @@ Innum Rs9280000.0 venum. Next year pakkalam
 
 **Author:** Nidarshana T  
 **GitHub:** [@nidarshana-dev](https://github.com/nidarshana-dev)
+### ✅ Task 2: Password Generator
+
+**Description:** A Python program that generates a strong random password based on user-specified length. Uses letters, numbers, and symbols.
+
+**Features:**
+- User can set custom password length
+- Mixes uppercase, lowercase, numbers, and symbols
+- Validates minimum length for security
+
+**How to Run:**
+1. Run `python password_generator.py`
+2. Enter desired password length
+3. Get your secure password
+
+**Sample Output:**
+  ```
+=== Password Generator ===
+Enter password length: 12
+ 
+Generated Password: k@9pL#zW2&Qx
+Keep it safe! Don't share with anyone.
+```
+
+---
