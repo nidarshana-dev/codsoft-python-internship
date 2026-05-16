@@ -54,3 +54,38 @@ Keep it safe! Don't share with anyone.
 ```
 
 ---
+## ✅ Task 3: Rock Paper Scissors Game
+
+**Description:** An interactive Python game where users play Rock Paper Scissors against the computer. The game tracks scores, handles invalid inputs, and allows multiple rounds.
+
+**Concepts Used:**
+- `random` module
+- `while` loops
+- `if-elif-else` logic
+- Input validation
+- Score tracking
+- String methods `.lower()` `.capitalize()`
+
+**Sample Output:**
+```
+=== Rock Paper Scissors Game ===
+Rules: Rock beats Scissors, Scissors beat Paper, Paper beats Rock
+
+Choose: Rock, Paper, or Scissors
+Your choice: rock
+
+You chose: Rock
+Computer chose: Scissors
+You Win! 🎉
+
+Score - You: 1 | Computer: 0
+
+Play again? (yes/no): no
+
+=== Final Score ===
+You: 1 | Computer: 0
+You are the Champion! 🏆
+Thanks for playing!
+```
+
+---
